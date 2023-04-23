@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap");
+@font-face {
+  font-family: "Polysans";
+  src: url("/fonts/PolySans Neutral/PolySans Neutral.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+.review {
+  font-family: "Polysans", sans-serif;
+  letter-spacing: 2px;
+  font-size: 100px;
+  font-weight: 700;
+}
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.center-content {
+  max-width: 800px;
+  display: flex;
+  row-gap: 22px;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.wh {
+  color: white;
+}
+.gr {
+  color: rgb(96, 238, 96);
+}
+.cont-desc {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+.description {
+  font-family: "Polysans", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: rgba(178, 182, 178, 1);
+}
+.email {
+  border: none;
+  background-color: transparent;
+}
+.input-email {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 1px solid rgba(178, 182, 178, 1);
+  border-radius: 30px;
+  padding: 8px 10px 8px 30px;
+  max-width: 450px;
+  align-content: stretch;
+  align-self: center;
+}
+.try-btn {
+  background-color: rgb(96, 238, 96);
+  color: #222;
+  border: none;
+  border-radius: 24px;
+  padding: 12px 22px;
+  font-size: 14px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: 0.3s ease-in;
+}
+.try-btn:hover {
+  color: #222;
+  background-color: white;
+  cursor: pointer;
+  transition: 0.3s ease-out;
+}
+.contenter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.lists {
+  font-size: 16px;
+}
+.tick {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 10px;
+}
+.big-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  row-gap: 32px;
+}
+input {
+  color: white;
+  border: none;
+}
+input:focus {
+  outline: none;
+}

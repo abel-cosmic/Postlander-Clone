@@ -1,0 +1,138 @@
+@font-face {
+  font-family: "Polysans";
+  src: url("/fonts/PolySans Neutral/PolySans Neutral.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+.footer {
+  max-height: unset;
+  max-width: unset;
+}
+.upper {
+  align-content: stretch;
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-self: center;
+}
+.footer {
+  display: flex;
+  flex-direction: column;
+  row-gap: 32px;
+  padding: 55px;
+}
+.disc2 {
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+.Myfont {
+  font-size: 80px;
+  width: 650px;
+}
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  column-gap: 20px;
+  row-gap: 24px;
+  align-self: stretch;
+  flex-wrap: wrap;
+}
+.links div {
+  align-self: flex-start;
+  color: rgb(30, 31, 30);
+  line-height: 1.2;
+  min-height: 20px;
+  min-width: 150px;
+  font-weight: 400;
+  cursor: pointer;
+  transition: ease 200ms;
+}
+.links div:hover {
+  text-decoration: underline;
+  transition: ease 200ms;
+}
+.package {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 225px;
+  width: 380px;
+}
+.package h1 {
+  margin: unset;
+  margin-bottom: 6px;
+}
+.package2 {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+}
+.footer div h1 {
+  font-family: "Polysans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  line-height: 23.4px;
+  color: rgb(30, 31, 30);
+}
+.linker {
+  display: flex;
+  align-self: flex-start;
+  color: rgb(30, 31, 30);
+  line-height: 1.2;
+  min-height: 20px;
+  min-width: 150px;
+  font-weight: 400;
+  font-size: 12px;
+  padding: 0 8px;
+  align-items: center;
+  cursor: pointer;
+  min-width: 32px;
+  transition: ease 200ms;
+}
+.linker:hover {
+  text-decoration: underline;
+  transition: ease 200ms;
+}
+.heading {
+  text-decoration: none;
+  padding: 0 8px;
+}
+.left-corner {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  justify-self: center;
+  text-align: left;
+  height: 18px;
+  gap: 0;
+}
+.border {
+  border-right: 0.3px solid black;
+}
+.fonter {
+  font-size: 12px;
+}
+.line {
+  display: flex;
+  flex-direction: column;
+  width: 1721px;
+  padding: 0 20px;
+  border-bottom: 1px solid rgb(58, 57, 57);
+}
+.socials{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 24px;
+    width: 120px;
+    height: 18px;
+}

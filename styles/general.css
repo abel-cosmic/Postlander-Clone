@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+@font-face {
+  font-family: "Polysans";
+  src: url("/fonts/PolySans Neutral/PolySans Neutral.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  background-color: rgb(14, 22, 24);
+  padding-top: 150px;
+  margin: 0;
+}
+* {
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  color: rgba(3, 3, 3, 0.795);
+  font-weight: 500;
+}
