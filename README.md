@@ -23,7 +23,19 @@ The purpose of this project is to practice my web development skills by cloning 
 
 ## Screenshot
 
-![screenshot](screenshot.png)
+![screenshot](https://github.com/abel-cosmic/Postlander-Clone/blob/main/readme%20images/1.png)
+
+![screenshot](https://github.com/abel-cosmic/Postlander-Clone/blob/main/readme%20images/2.png)
+
+![screenshot](https://github.com/abel-cosmic/Postlander-Clone/blob/main/readme%20images/3.png)
+
+![screenshot](https://github.com/abel-cosmic/Postlander-Clone/blob/main/readme%20images/4.png)
+
+![screenshot](https://github.com/abel-cosmic/Postlander-Clone/blob/main/readme%20images/5.png)
+
+![screenshot](https://github.com/abel-cosmic/Postlander-Clone/blob/main/readme%20images/6.png)
+
+![screenshot](https://github.com/abel-cosmic/Postlander-Clone/blob/main/readme%20images/7.png)
 
 ## Credits
 
